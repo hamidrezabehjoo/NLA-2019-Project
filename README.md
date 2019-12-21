@@ -1,5 +1,5 @@
-# NLA_Team_4
-Praobablistic Matrix Analysis
+# NLA_Team_4 (Praobablistic Matrix Analysis)
+
 ########################################
 Hi lovers of NLA
 
